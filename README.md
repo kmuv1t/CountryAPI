@@ -22,12 +22,12 @@ Execution:
 - To run the program type the following command:
 > python main.py
 
-![](img/menu.png)
+![](img/Menu.png)
 
 - To open help menu type:
 > python main.py help
 
-![](img/help.png)
+![](img/Help.png)
 
 ---
 
