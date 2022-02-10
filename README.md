@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://cutewallpaper.org/24/world-png-icon/online-world-wide-web-globe-network-svg-png-icon-free-download-527746--onlinewebfontscom.png" alt="Crawler" width="100px">
+  <img src="https://www.citypng.com/public/uploads/small/11640343808iddstil1pjb8d1qzq404zntytthwam9lzqxswvoimicbltv0rzjdjtcglda4socrzcb4kyj6gd8zdgg239kyiqxeuk0ibkt7k82e.png" alt="Crawler" width="100px">
   <br>
   CountryAPI:
 </h1>
@@ -19,7 +19,11 @@ REST Countries API Program
 Execution:
 =====
 
-- To run the program type the following command:
+- First install the dependencies:
+> pip install -r requirements.txt
+
+
+- Then run the program by typing the following command:
 > python main.py
 
 ![](img/Menu.png)
