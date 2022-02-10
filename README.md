@@ -8,7 +8,7 @@
 ---
 
 [![badge](https://img.shields.io/badge/Created%20by-Kmuv1t-orange)](https://github.com/kmuv1t)
-![badge](https://img.shields.io/badge/Version-1.0-blue)
+![badge](https://img.shields.io/badge/RESTCountries-3.1-blue)
 [![badge](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <h4 align="center">
@@ -28,6 +28,14 @@ Execution:
 > python main.py help
 
 ![](img/Help.png)
+
+---
+
+Program Structure:
+=====
+
+![](img/rest.gif)
+*REST Countries API: https://restcountries.com/*
 
 ---
 
